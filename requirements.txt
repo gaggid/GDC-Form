@@ -1,0 +1,7 @@
+streamlit==1.40.1
+pandas==2.2.3
+SQLite3==3.43.2
+datetime==5.2
+hashlib==3.6.1
+contextlib==3.12.1
+uuid==1.30
