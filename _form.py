@@ -1311,9 +1311,9 @@ def show_login_screen():
                 st.error("Invalid username or password")
                 
         st.markdown("---")
-        st.write("Default admin login: username 'admin', password 'admin123'")
+        # st.write("Default admin login: username 'admin', password 'admin123'")
         st.write("Default hub login: username '[hub_name_lowercase]', password '[hub_name_lowercase]123'")
-        st.write("Example: For 'AKQA', username is 'akqa', password is 'akqa123'")
+        # st.write("Example: For 'AKQA', username is 'akqa', password is 'akqa123'")
 
 def show_main_interface():
     # Logout button in top right corner
